@@ -37,6 +37,7 @@ cat << EOF > $HOME/.local/share/applications/vscode.desktop
 Version=1.1
 Type=Application
 Name=Visual Studio Code
+Keywords=code;vscode
 Exec=$HOME/.local/opt/VSCode-linux-x64/bin/code
 Path=$HOME/.local/opt/VSCode-linux-x64/bin
 Icon=$HOME/.local/opt/VSCode-linux-x64/resources/app/resources/linux/code.png
